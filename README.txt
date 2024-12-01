@@ -2,9 +2,12 @@ Higher or Lower - Coding Challenge - Hawk-Eye Innovations
 
 Candidate : George Cottrell
 
-Notes:
 
+
+Notes:
 	Test.cpp & Test.h were supposed to be renamed GameHandler.cpp / GameHandler.h respectively.
+
+
 
 Why certain decisions were made:
 
